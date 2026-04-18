@@ -21,7 +21,7 @@ This language pack contains Bosnian translations for Flarum (compatible with `2.
 You can install language pack using [Composer](https://getcomposer.org/):
 
 ```console
-composer require "flarum-lang/bosnian:*"
+composer require "flarum-lang/bosnian:@dev"
 ```
 
 Then enable extension in admin panel of your Flarum.
@@ -32,7 +32,7 @@ Then enable extension in admin panel of your Flarum.
 You can update language pack using [Composer](https://getcomposer.org/):
 
 ```console
-composer update flarum-lang/bosnian:dev-master
+composer update flarum-lang/bosnian
 ```
 
 Then clear the cache:
